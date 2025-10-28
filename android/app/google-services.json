@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "849859322485",
+    "firebase_url": "https://learntrack-d821e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "learntrack-d821e",
+    "storage_bucket": "learntrack-d821e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849859322485:android:eb99b31d7998b371dd4e3c",
+        "android_client_info": {
+          "package_name": "com.example.learn_track"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoefud5GXNgCtkYCT0gkNsAMPFhDwm1BE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
